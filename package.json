@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/uncss/postcss-uncss#readme",
   "peerDependencies": {
-    "uncss": "^0.17.0"
+    "uncss": "^0.17.3"
   }
 }
